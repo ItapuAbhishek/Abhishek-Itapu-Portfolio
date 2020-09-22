@@ -1,5 +1,4 @@
-# Abhishek Itapu
-## DataScience Portfolio
+# DataScience Portfolio
 
 # [Project 1 :Voice Based Gender Identification Using Machine Learning:](hhttps://github.com/ItapuAbhishek/Project1.io.git)
 ## Project Overview:
