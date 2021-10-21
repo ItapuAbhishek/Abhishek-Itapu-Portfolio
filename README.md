@@ -8,7 +8,7 @@
 Built with: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
 
 
-# [Project 1 :Segmenting Credit Card Customers with Machine Learning:](https://github.com/ItapuAbhishek/Segmenting-Credit-Card-Customers-with-Machine-Learning.git)
+# [Project 2 :Segmenting Credit Card Customers with Machine Learning:](https://github.com/ItapuAbhishek/Segmenting-Credit-Card-Customers-with-Machine-Learning.git)
 
 ## Project Overview:
 * The aim of this project requires to develop a customer segmentation to define marketing strategy based on the usage behavior of about 9000 active credit card holders with 18 behavior variables during the last 6 months.
@@ -16,4 +16,12 @@ Built with: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
 * Techniques used: Data Cleaning, Feature engineering, PCA, t-SNE, UMAP, K-means, Hierarchical,
 DBSCAN, Gaussian Mixture Clustering models
 Built with: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
+
+# [Project 3 :Multi Class Weather Classification:](https://github.com/ItapuAbhishek/Multi-Class-Weather-Classification/blob/main/multiclassification.git)
+
+## Project Overview:
+* The aim of this project is to build a Convolution neural network that classifies different weather conditions from single images.
+
+* Techniques used: Data Preprocessing ,Model Building Convolution Neural Network,Model Evaluation
+Built with: Python, Pandas, CNN, VGG19, Matplotlib, cv2,Tensorflow
 
