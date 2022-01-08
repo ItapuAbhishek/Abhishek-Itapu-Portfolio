@@ -15,7 +15,7 @@ Built with: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
 
 * Techniques used: Data Cleaning, Feature engineering, PCA, t-SNE, UMAP, K-means, Hierarchical,
 DBSCAN, Gaussian Mixture Clustering models
-Built with: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
+Built with: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn.
 
 # [Project 3 :Multi Class Weather Classification:](https://github.com/ItapuAbhishek/Multi-Class-Weather-Classification/blob/main/multiclassification.git)
 
@@ -24,4 +24,12 @@ Built with: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
 
 * Techniques used: Data Preprocessing ,Model Building Convolution Neural Network,Model Evaluation
 Built with: Python, Pandas, CNN, VGG19, Matplotlib, cv2,Tensorflow
+
+# [Project 3 :Concrete-Strength-Prediction with Machine Learning:](https://github.com/ItapuAbhishek/Concrete-Strength-Prediction.git)
+
+## Project Overview:
+* The aim of this project is to predict the compressive strength of concrete using different Machine learning Algorithms and analyzing their performances.
+
+* Techniques used: Data Preprocessing ,Linear Regression, Lasso and Ridge Regression, Support Vector Machines, KNN Regressor, Decision Tree Regression and Random Forest Regression.
+Built with: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn.
 
