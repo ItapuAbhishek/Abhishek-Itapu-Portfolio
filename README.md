@@ -33,7 +33,7 @@ Built with: Python, Pandas, CNN, VGG19, Matplotlib, cv2,Tensorflow
 * Techniques used: Data Preprocessing ,Linear Regression, Lasso and Ridge Regression, Support Vector Machines, KNN Regressor, Decision Tree Regression and Random   gForest Regression.
 Built with: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn.
 
-# [Project 5 :Insurance Prediction with Machine Learning:](https://github.com/ItapuAbhishek/Insurance-Prediction/blob/main/task_4.ipynb)
+# [Project 5 :Insurance Prediction with Machine Learning:](https://github.com/ItapuAbhishek/Insurance-Prediction/blob/main/Health_Insurance_Prediction.ipynb)
 
 ## Project Overview:
 * The aim of this project is to Build a machine learning model to predict whether a customer would be interested in taking the insurance policy or not.
